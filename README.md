@@ -6,5 +6,5 @@
 Power Usage increase >20%
 ## Bad die?
 
-If you are some of the unlucky ones with a bad die press the power target up and try to balance the core voltage ( keep it low ). Decrease mem speed until you are stable.
+If you are some of the unlucky ones with a bad die press the power target up and try to balance the core voltage (keep it low). Decrease mem speed until you are stable.
 
